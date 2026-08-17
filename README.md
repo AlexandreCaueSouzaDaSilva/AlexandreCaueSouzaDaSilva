@@ -71,4 +71,38 @@ Tenho interesse em desenvolvimento de APIs, sistemas, automações e aplicaçõe
 
 <p align="center">
 ⭐ Confira meus projetos e acompanhe minha evolução aqui no GitHub!
+
+Projetos
+<hr>
+Guang — Bloco de Notas + OCR
+
+Aplicação mobile de bloco de notas com recurso de captura e extração de texto através de imagens (OCR).
+
+Tecnologias: TypeScript, Ionic, OCR, API da OPEN AI
+
+Repositório
+src="https://github.com/AlexandreCaueSouzaDaSilva/Guang"
 </p>
+
+<hr>
+To-do List
+
+Gerenciador de tarefas desenvolvido para praticar a comunicação entre frontend e backend, utilizando React no frontend e Node.js com Express no backend.
+
+Tecnologias: React, JavaScript, Node.js, Express
+
+<hr>
+Siriust — Web System
+
+Sistema web desenvolvido para uma clínica, com CRUD funcional e organização baseada em arquitetura de software.
+
+Projeto desenvolvido como parte da faculdade, envolvendo desenvolvimento web e estruturação de aplicações backend.
+
+Tecnologias: PHP, HTML, CSS
+
+<hr>
+Gerenciador de Arquivos em C
+
+Projeto desenvolvido em C para trabalhar com o conceito de strings simulando arquivos, explorando manipulação de dados e conceitos fundamentais da linguagem.
+
+Tecnologia: C
