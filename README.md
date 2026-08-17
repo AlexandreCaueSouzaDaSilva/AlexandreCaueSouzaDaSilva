@@ -43,7 +43,7 @@
 <h2 align="center"> Idiomas <h2>
 
 <p1 align="center">
-Português : Fluente, Nativo.
+Português : Fluente, Nativo. <br>
 Inglês : Intermediário.
 <p1>
 
