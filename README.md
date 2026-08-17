@@ -37,6 +37,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" title="C#">
 </p>
+<hr>
+
+
+<h2 align="center"> Idiomas <h2>
+
+<p1 align="center">
+Português : Fluente, Nativo.
+Inglês : Intermediário.
+<p1>
 
 <hr>
 
@@ -51,9 +60,9 @@ Tenho interesse em desenvolvimento de APIs, sistemas, automações e aplicaçõe
 
 
 
-<p align="center">
+<h2 align="center">
 ⭐ Confira meus projetos e acompanhe minha evolução aqui no GitHub!
-
+</h2>
 Projetos
 <hr>
 Guang — Bloco de Notas + OCR
