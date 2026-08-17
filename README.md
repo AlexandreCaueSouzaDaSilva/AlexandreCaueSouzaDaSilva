@@ -53,27 +53,15 @@ Tenho interesse em desenvolvimento de APIs, sistemas, automações e aplicaçõe
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=AlexandreCaueSouzaDaSilva&theme=tokyonight&row=1&column=6"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexandreCaueSouzaDaSilva&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=AlexandreCaueSouzaDaSilva&theme=tokyonight"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCaueSouzaDaSilva&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-<hr>
 
-<p align="center">
-  <img 
-    src="https://media1.tenor.com/m/xVgG6U6s0UAAAAAd/cyberpunk-edgerunners.gif"
-    width="800"
-    alt="Cyberpunk Edgerunners"
-  />
-</p>
+
+
 
 <p align="center">
 ⭐ Confira meus projetos e acompanhe minha evolução aqui no GitHub!
