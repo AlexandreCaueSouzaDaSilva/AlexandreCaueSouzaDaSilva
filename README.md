@@ -50,23 +50,29 @@ Tenho interesse em desenvolvimento de APIs, sistemas, automações e aplicaçõe
 <hr>
 
 
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlexandreCaueSouzaDaSilva&theme=tokyonight&row=1&column=6"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=AlexandreCaueSouzaDaSilva&theme=tokyonight&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AlexandreCaueSouzaDaSilva&theme=tokyonight"/>
+  <img 
+    src="https://streak-stats.demolab.com/?user=AlexandreCaueSouzaDaSilva&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
-
-
-
 <hr>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/xVgG6U6s0UAAAAAd/cyberpunk-edgerunners.gif" width="800">
+  <img 
+    src="https://media1.tenor.com/m/xVgG6U6s0UAAAAAd/cyberpunk-edgerunners.gif"
+    width="800"
+    alt="Cyberpunk Edgerunners"
+  />
 </p>
 
 <p align="center">
@@ -80,8 +86,7 @@ Aplicação mobile de bloco de notas com recurso de captura e extração de text
 
 Tecnologias: TypeScript, Ionic, OCR, API da OPEN AI
 
-Repositório
-src="https://github.com/AlexandreCaueSouzaDaSilva/Guang"
+[Repositório](https://github.com/AlexandreCaueSouzaDaSilva/Guang)
 </p>
 
 <hr>
@@ -90,6 +95,8 @@ To-do List
 Gerenciador de tarefas desenvolvido para praticar a comunicação entre frontend e backend, utilizando React no frontend e Node.js com Express no backend.
 
 Tecnologias: React, JavaScript, Node.js, Express
+
+[Repositório](https://github.com/AlexandreCaueSouzaDaSilva/To-do-List)
 
 <hr>
 Siriust — Web System
@@ -100,9 +107,22 @@ Projeto desenvolvido como parte da faculdade, envolvendo desenvolvimento web e e
 
 Tecnologias: PHP, HTML, CSS
 
+[Repositório](https://github.com/AlexandreCaueSouzaDaSilva/Siriust---Web-System)
+
 <hr>
 Gerenciador de Arquivos em C
 
 Projeto desenvolvido em C para trabalhar com o conceito de strings simulando arquivos, explorando manipulação de dados e conceitos fundamentais da linguagem.
 
 Tecnologia: C
+[Repositório](https://github.com/AlexandreCaueSouzaDaSilva/Gerenciador-de-Arquivos-C-)
+
+<hr>
+VAVYRA
+
+Gerenciador de tarefas desenvolvido inteiramente em Python, executado através do terminal.
+
+Projeto voltado para prática de lógica, estruturas de dados e desenvolvimento de aplicações para CLI.
+
+Tecnologia: Python
+[Repositório](https://github.com/AlexandreCaueSouzaDaSilva/VAVYRA)
