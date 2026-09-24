@@ -1,15 +1,15 @@
 
-<h1 align="center">Olá, me chamo Cauê 👋</h1>
+<h1 align="center"> Olá, me chamo Cauê!! </h1>
 
 <p align="center">
-💻 Estudante de Ciência da Computação <br>
-🚀 Focado em desenvolvimento  Frontend e Full Stack <br>
-🧠 Sempre aprendendo novas tecnologias e explorando projetos aqui e ali para me desafiar
+- Estudante de Ciência da Computação <br>
+- Focado em desenvolvimento  Frontend e Full Stack <br>
+- Sempre aprendendo novas tecnologias e explorando projetos aqui e ali para me desafiar
 </p>
 
 <hr>
 
-<h2 align="center">🛠 Tecnologias que estudo e utilizo</h2>
+<h2 align="center"> Tecnologias que estudo e utilizo com frequência </h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C">
@@ -30,7 +30,7 @@
 
 <hr>
 
-<h2 align="center"> 📚 Atualmente aprendendo</h2>
+<h2 align="center"> Atualmente aprendendo</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript">
@@ -49,7 +49,7 @@ Inglês : Intermediário.
 
 <hr>
 
-<h2 align="center">🎯 Objetivo</h2>
+<h2 align="center"> Objetivo</h2>
 
 <p align="center">
 Busco evoluir constantemente como desenvolvedor, criando projetos que me desafiem principalmente no backend, pois sinto que preciso melhorar mais em especial.<br>
@@ -61,11 +61,11 @@ Tenho interesse em desenvolvimento de APIs, sistemas, automações e aplicaçõe
 
 
 <h2 align="center">
-⭐ Confira meus projetos e acompanhe minha evolução aqui no GitHub!
+Confira alguns de meus projetos e acompanhe minha evolução aqui no GitHub!
 </h2>
 Projetos
 <hr>
-Guang — Bloco de Notas + OCR
+Guang — Bloco de Notas + OCR (2026)
 
 Aplicação mobile de bloco de notas com recurso de captura e extração de texto através de imagens (OCR).
 
@@ -75,7 +75,7 @@ Tecnologias: TypeScript, Ionic, OCR, API da OPEN AI
 </p>
 
 <hr>
-To-do List
+To-do List (2026)
 
 Gerenciador de tarefas desenvolvido para praticar a comunicação entre frontend e backend, utilizando React no frontend e Node.js com Express no backend.
 
@@ -84,7 +84,7 @@ Tecnologias: React, JavaScript, Node.js, Express
 [Repositório](https://github.com/AlexandreCaueSouzaDaSilva/To-do-List)
 
 <hr>
-Siriust — Web System
+Siriust — Web System (2025)
 
 Sistema web desenvolvido para uma clínica, com CRUD funcional e organização baseada em arquitetura de software.
 
@@ -95,7 +95,7 @@ Tecnologias: PHP, HTML, CSS
 [Repositório](https://github.com/AlexandreCaueSouzaDaSilva/Siriust---Web-System)
 
 <hr>
-Gerenciador de Arquivos em C
+Gerenciador de Arquivos em C (2025)
 
 Projeto desenvolvido em C para trabalhar com o conceito de strings simulando arquivos, explorando manipulação de dados e conceitos fundamentais da linguagem.
 
@@ -103,7 +103,7 @@ Tecnologia: C
 [Repositório](https://github.com/AlexandreCaueSouzaDaSilva/Gerenciador-de-Arquivos-C-)
 
 <hr>
-VAVYRA
+VAVYRA (2026-atualmente)
 
 Gerenciador de tarefas desenvolvido inteiramente em Python, executado através do terminal.
 
