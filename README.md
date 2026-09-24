@@ -30,7 +30,7 @@
 
 <hr>
 
-<h2 align="center">📚 Atualmente aprendendo</h2>
+<h2 align="center"> 📚 Atualmente aprendendo</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript">
